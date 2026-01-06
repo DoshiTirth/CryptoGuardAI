@@ -213,3 +213,5 @@ Higher scores = more unusual behavior.
  
 Not for commercial use.  
 
+## Author<br>
+Developed by **Tirth Doshi**
