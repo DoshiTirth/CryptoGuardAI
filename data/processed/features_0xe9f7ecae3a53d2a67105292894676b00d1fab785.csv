@@ -1,0 +1,2 @@
+wallet,tx_count,total_volume_btc,avg_tx_value_btc,std_tx_value_btc,max_tx_value_btc,min_tx_value_btc,avg_fee_btc,avg_time_between_tx_sec,burstiness_tx_per_hour,avg_inputs,avg_outputs
+0xe9f7ecae3a53d2a67105292894676b00d1fab785,150,363.41660880133725,2.422777392008915,29.672186892430112,363.40864066500467,0.0,0.00010484390777918938,17246.73103448276,7,1.0,1.0

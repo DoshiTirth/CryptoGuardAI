@@ -1,0 +1,56 @@
+# ======================
+# Secrets
+# ======================
+.env
+*.env
+
+# ======================
+# Python cache
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Virtual environments
+# ======================
+.venv/
+venv/
+env/
+ENV/
+
+# ======================
+# Conda (extra safety)
+# ======================
+conda-meta/
+
+# ======================
+# Jupyter
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Data & reports (optional)
+# Uncomment if private or large
+# ======================
+# data/
+# reports/
+# Screenshot/
+
+# ======================
+# ML models (optional)
+# Uncomment if large
+# ======================
+# *.pkl
